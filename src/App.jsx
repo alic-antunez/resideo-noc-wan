@@ -8,6 +8,7 @@ const ENGINEERS = [
   { name: "Alic Antunez",         email: "Alic.Antunez@resideo.com"         },
   { name: "Jorge Torres",         email: "Jorge.Torres@resideo.com"         },
   { name: "Guillermo Cerda",      email: "Guillermo.Cerda@resideo.com"      },
+  { name: "Adrian.Pliego",      email: "Adrian.Pliego@resideo.com"      },
   { name: "Thomas Pelkas",        email: "Thomas.Pelkas@resideo.com"        },
   { name: "Sachin Balachandran",  email: "Sachin.Balachandran@resideo.com"  },
 ];
