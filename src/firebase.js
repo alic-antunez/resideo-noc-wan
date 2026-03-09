@@ -15,12 +15,12 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey:            "REPLACE_WITH_YOUR_API_KEY",
-  authDomain:        "REPLACE_WITH_YOUR_AUTH_DOMAIN",
-  projectId:         "REPLACE_WITH_YOUR_PROJECT_ID",
-  storageBucket:     "REPLACE_WITH_YOUR_STORAGE_BUCKET",
-  messagingSenderId: "REPLACE_WITH_YOUR_MESSAGING_SENDER_ID",
-  appId:             "REPLACE_WITH_YOUR_APP_ID",
+  apiKey:            "AIzaSyA2sB89ijlql-sprnB8UTQmb7pqm_JjJjQ",
+  authDomain:        "resideo-noc-wan-report.firebaseapp.com",
+  projectId:         "resideo-noc-wan-report",
+  storageBucket:     "resideo-noc-wan-report.firebasestorage.app",
+  messagingSenderId: "576742374850",
+  appId:             "1:576742374850:web:0a66fcaa85378f304d6a5b",
 };
 
 const app = initializeApp(firebaseConfig);
